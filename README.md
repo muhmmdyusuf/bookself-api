@@ -29,7 +29,6 @@ Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, U
 1. Clone repository ini:
    ```bash
    git clone https://github.com/muhmmdyusuf/bookself-api.git
-````
 
 2. Masuk ke folder proyek:
 
