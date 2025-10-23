@@ -1,4 +1,3 @@
-````markdown
 # Bookshelf API
 
 Bookshelf API adalah proyek backend sederhana yang dibangun menggunakan Node.js dan Express.js. Aplikasi ini dibuat sebagai bagian dari submission program Asah/Dicoding untuk mempelajari konsep dasar backend dan penerapan RESTful API.
